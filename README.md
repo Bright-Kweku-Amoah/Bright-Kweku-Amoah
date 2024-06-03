@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## About Me 🤔
 
-I'm Bright Kweku Amoah, a 300-level student at the University of Ghana 🎓🇬🇭, with a passion for development and technology 💻💡. I'm proficient in:
+I'm **Bright Kweku Amoah**, a 300-level student at the University of Ghana 🎓🇬🇭, with a passion for development and technology 💻💡. I'm proficient in:
 
 - Vue.js, specifically Vue 3 Composition API 🌟🎉
 - Firebase backend services like Auth, Firestore, Real-time Database  and Cloud Storage 📂🔒
@@ -51,7 +51,7 @@ My goal is to become a skilled software engineer, making meaningful contribution
 
 **"I am the color red 🔴 in a world full of black ⬛️ and white ⬜️." - Bray Wyatt (late Windham Rotunda) 🔥💔**
 
-**-------------------------------------**
+##
 
 🔭 I'm currently working on personal projects to improve my skills in Vue.js, Firebase, and Node.js.
 
