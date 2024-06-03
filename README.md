@@ -49,7 +49,9 @@ My goal is to become a skilled software engineer, making meaningful contribution
 
 ## Quote 💫
 
-"I am the color red 🔴 in a world full of black ⬛️ and white ⬜️." - Bray Wyatt (late Windham Rotunda) 🔥💔
+**"I am the color red 🔴 in a world full of black ⬛️ and white ⬜️." - Bray Wyatt (late Windham Rotunda) 🔥💔**
+
+**-------------------------------------**
 
 🔭 I'm currently working on personal projects to improve my skills in Vue.js, Firebase, and Node.js.
 
