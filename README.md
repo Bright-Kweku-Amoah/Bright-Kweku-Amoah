@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I'm **Bright Kweku Amoah**, a 300-level student at the University of Ghana 🎓🇬🇭, with a passion for development and technology 💻💡. I'm proficient in:
+I'm **Bright Kweku Amoah**, a 400-level student at the University of Ghana 🎓🇬🇭, with a passion for development and technology 💻💡. I'm proficient in:
 
 - Vue.js, specifically Vue 3 Composition API 🌟🎉
 - Firebase backend services like Auth, Firestore, Real-time Database  and Cloud Storage 📂🔒
